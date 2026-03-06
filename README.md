@@ -21,7 +21,7 @@ The system uses a **webcam feed** to monitor activity and automatically triggers
 Click the thumbnail below to watch the demo.
 
 <p align="center">
-<a href="demo.mp4">
+<a href="Demo.mp4">
 <img src="https://github.com/user-attachments/assets/34416924-52e2-4a0b-8f7b-e1cbf1c39dbb" width="800"/>
 </a>
 </p>
